@@ -1,0 +1,6 @@
+'Eu ligaria duas lâmpadas, deixando apenas uma desligada e esperaria alguns minutos.'
+'Após esperar desligaria uma das duas ligadas.'
+'Então iria na primeira sala das lâmpadas, caso a lâmpada estivesse ligada seria uma,'
+'caso estivesse desligada porém quente seria outra, caso estivesse desligada e fria seria a terceira.'
+'Assim já saberia qual dos interruptores seria a da primeira sala,'
+'aí só ir na segunda ida na segunda sala e fazer a mesma coisa, sabendo assim o segundo interruptor e o terceiro por eliminatória'
